@@ -1,4 +1,4 @@
-# Saawiggy Clone App trmxu 
+# Sawigy Clone App trmxu 
 
 This project is an assignment completed while working through the **Namaste React** course.
 
